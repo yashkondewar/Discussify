@@ -13,8 +13,14 @@ MongoDB, Expressjs, React/Redux, Nodejs
 engagement tools such as comments, upvotes, downvotes, and trending posts based on
 categories.<br>
 ● Focused on creating a user-friendly interface and fostering a vibrant online knowledge-sharing
-and discussion community.<br>
+and discussion community.<be>
 
+## Screenshots
+![Discussify 1](https://github.com/yashkondewar/Discussify/assets/98695632/9f986f0b-0deb-4b50-8480-483913c4af1a)
+*Home Page*
+
+![Discussify 2](https://github.com/yashkondewar/Discussify/assets/98695632/854ede89-b409-4c1b-b028-fb84321ecbed)
+*Create Post*
 
 ## Clone or download
 ```terminal
